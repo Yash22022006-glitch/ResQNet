@@ -1,0 +1,11 @@
+{
+  "name": "RESQNET AI",
+  "description": "Edge-Based Offline Disaster Response & Survival Network powered by Gemma 4. Provides AI-driven survival guidance, mesh networking, and real-time local mapping.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
